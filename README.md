@@ -15,6 +15,7 @@ Issues
 
 Resources
 -----------------
+[FastAI](https://github.com/fastai/courses)
 
 Disclaimer
 ----------------- 
